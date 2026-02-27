@@ -1,5 +1,5 @@
 # edtech-data-portfolio
-A professional data analytics portfolio highlighting education and learning data projects, including IEP progress tracking, intervention effectiveness analysis, and learning outcome dashboards. Projects demonstrate data cleaning, modeling, visualization, and stakeholder-focused reporting using Excel, SQL, Python, and BI tools.
+A professional data analytics portfolio highlighting education and learning data projects, including IEP progress tracking, intervention effectiveness analysis, and learning outcome dashboards. Projects demonstrate data cleaning, modeling, visualization, and stakeholder-focused reporting using Excel, Google Sheets, and SQL.
 
 # Alicia Beinbrech – Education Data Analytics Portfolio
 
@@ -10,39 +10,20 @@ Education Data Analyst with 10+ years in K–12 special education, translating l
 
 ## Projects
 
-### 1. IEP Progress Monitoring Dashboard
-**Goal:** Track student progress toward IEP goals using data visualization.
+### 2. Intervention Assment Analysis
+**Goal:** Assess the students ability to follow their current schedule 
 
-**Tools:** Excel, Power BI (or Tableau), Python  
+**Tools:** Google Sheets- as requested by the classroom teacher 
 **Key Work:**
-- Cleaned and anonymized student progress data
-- Built dashboard showing goal attainment trends
-- Identified students at risk of not meeting benchmarks
-
----
-
-### 2. Intervention Effectiveness Analysis
-**Goal:** Evaluate which instructional interventions improved outcomes.
-
-**Tools:** SQL, Excel, Python  
-**Key Work:**
-- Compared pre/post intervention performance
-- Conducted cohort analysis across disability categories
+- Track how many times the refuses to follow their schedule
+- Record the number of times additional intervention was used ie. time taken away from general classroom defined as three or more prompts 
 - Generated recommendations for resource allocation
 
 ---
 
-### 3. Attendance & Academic Correlation Study
-**Goal:** Analyze relationship between attendance and IEP goal mastery.
-
-**Tools:** Python, Pandas, Matplotlib  
-**Key Work:**
-- Merged attendance and academic datasets
-- Built correlation and regression models
-- Produced educator-friendly reports
-
+# Additional projects to come
 ---
 
 ## Contact
-- LinkedIn: [your LinkedIn link]
-- Email: [your email]
+- LinkedIn: [www.linkedin.com/in/alicia-beinbrech-1664661ab]
+- Email: [alicia.beinbrech@gmail.com]
