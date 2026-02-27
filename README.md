@@ -10,7 +10,7 @@ Education Data Analyst with 10+ years in K–12 special education, translating l
 
 ## Projects
 
-### 2. Intervention Assment Analysis
+### 1. Intervention Assment Analysis
 **Goal:** Assess the students ability to follow their current schedule 
 
 **Tools:** Google Sheets- as requested by the classroom teacher 
