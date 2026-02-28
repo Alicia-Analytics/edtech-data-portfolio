@@ -21,7 +21,13 @@ Education Data Analyst with 10+ years in K–12 special education, translating l
 
 ---
 
-# Additional projects to come
+### 2. IEP_Progress_Dashboard
+**Goal:** Special education teams require timely, data-informed insight into student progress toward Individualized Education Program (IEP) goals to ensure appropriate instructional adjustments and regulatory compliance. 
+
+**Key Work:**
+- Track daily progress twards IEP goals as recordeded by paraprofessionals
+- Summarize findings
+
 ---
 
 ## Contact
